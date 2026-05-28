@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvave",
+        "uuid": 32608960,
+        "checksum": "tnzyut"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
